@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/index.scss"
+	],
+	"sourcesContent": [
+		"// Add your styles here\n\n@import \"index\";",
+		"\r\n.u-center {\r\n    display: flex;\r\n    justify-content: center !important;\r\n    align-items: center !important;\r\n}"
+	],
+	"names": [],
+	"mappings": "ACCA,AAAA,SAAS,CAAC,EACN,OAAO,EAAE,IAAI,EACb,eAAe,EAAE,iBAAiB,EAClC,WAAW,EAAE,iBAAiB,GACjC"
+}
